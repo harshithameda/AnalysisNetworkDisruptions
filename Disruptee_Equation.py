@@ -15,7 +15,6 @@ from geopy.point import Point
 import pandas as pd
 # from geopy.distance import great_circle
 # import googlemaps
-# import re
 import time
 
 
