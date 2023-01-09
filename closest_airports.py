@@ -57,6 +57,6 @@ G=nx.from_pandas_edgelist(df, 'Source_Apt', 'Destination_Apt')
   
     The function run for an example forecast location at a NHC cone radius 196 is shown below
 """
-close_apts(G,(37,-72),196,dt,'close_airports')
+close_apts(G,(37,-72),196,dt,output_file)
 
  
