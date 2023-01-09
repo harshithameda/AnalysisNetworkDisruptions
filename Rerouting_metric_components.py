@@ -2,7 +2,7 @@
 """
 Created on Tue May 18 13:45:02 2021
 
-@author: harsh
+@author: harshitha meda
 """
 
 import networkx as nx
@@ -90,7 +90,7 @@ def disruptee_equation_values_rerouting_airport(G,i,k,p, mindist,dic):
     
     Takes the 5 arguments:Graph/network of airports, airport that met rerouting cutoffs, 
                             airport quantified as a disruptor,disruptee airport from where rerouting 
-                            airport is beign estimated,hurricane impact distance, dictionary of location data
+                            airport is being estimated,hurricane impact distance, dictionary of location data
                             
                                 
     
